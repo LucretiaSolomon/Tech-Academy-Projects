@@ -1,2 +1,2 @@
 # Tech-Academy-Projects
-This sis Tech Academy Projects for Learning Purposes
+This is my Tech Academy Projects for Learning Purposes.
